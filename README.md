@@ -13,6 +13,10 @@
   <img align="center" alt="Eliel-Apx" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
   <img align="center" alt="Eliel-Electron" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
   <img align="center" alt="Eliel-Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" alt="Eliel-Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="Eliel-Tauri" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg">
+  <img align="center" alt="Eliel-Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Eliel-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 
 </div>
   
