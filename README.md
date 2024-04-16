@@ -21,8 +21,7 @@
   <img align="center" alt="Eliel-Sequelize" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"> 
   <img align="center" alt="Eliel-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
   <img align="center" alt="Eliel-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"> 
-
-  a
+aa
 </div>
   <br>
  
