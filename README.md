@@ -1,11 +1,12 @@
 
 ## Eae, meu nome é Eliel Veiga, programador javascript 
 
-<h3>
+<p>
   Meu foco principal reside em JavaScript e TypeScript, além de explorar os frameworks mais renomados do mercado. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
-
-💼 Atualmente, estou mergulhado no universo do desenvolvimento web, explorando as possibilidades infinitas que essas tecnologias oferecem. Estou sempre aberto a novos desafios e oportunidades de aprendizado.
-</h3>
+</p>
+<p>
+  💼 Atualmente, estou mergulhado no universo do desenvolvimento web, explorando as possibilidades infinitas que essas tecnologias oferecem. Estou sempre aberto a novos desafios e oportunidades de aprendizado.
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eliel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
