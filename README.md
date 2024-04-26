@@ -10,8 +10,6 @@
 </p>
 
 <div style="display: inline_block" align="center"><br>
-  <img height="80" width="80" src="https://github.com/ElielVeiga/ElielVeiga/blob/main/Design-sem-nome-1--unscreen.gif">
-
   
   <img align="center" alt="Eliel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eliel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
