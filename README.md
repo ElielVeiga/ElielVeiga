@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-## Eae, meu nome é Eliel Veiga, programador javascript 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ELIEL+VEIGA;TENHO+18+ANOS;MORO+NO+RIO+GRANDE+DO+SUL+)](https://git.io/typing-svg)
 
 <p>
   Meu foco principal reside em JavaScript e TypeScript, além de explorar os frameworks mais renomados do mercado. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
@@ -47,3 +48,5 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElielVeiga&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
