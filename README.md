@@ -49,4 +49,9 @@
   
 </div>
 
+<div>
+    <img align="center" alt="Eliel-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/Kshitij978/Kshitij978/main/lofiboy.webp"> 
+
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
