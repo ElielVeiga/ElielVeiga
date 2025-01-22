@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6203d2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6203d2&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ELIEL+VEIGA;TENHO+18+ANOS;MORO+NO+RIO+GRANDE+DO+SUL+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6203d2&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ELIEL+VEIGA;TENHO+19+ANOS;MORO+NO+RIO+GRANDE+DO+SUL+)](https://git.io/typing-svg)
 
 <p>
   Meu foco principal reside em JavaScript e TypeScript, além de explorar os frameworks mais renomados do mercado. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
